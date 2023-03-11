@@ -1,0 +1,15 @@
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.csproj.AssemblyReference.cache
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.AssemblyInfoInputs.cache
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.AssemblyInfo.cs
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/lab8Csharp/lab8Csharp/bin/Debug/net7.0/lab8Csharp
+/Users/mak/Projects/lab8Csharp/lab8Csharp/bin/Debug/net7.0/lab8Csharp.deps.json
+/Users/mak/Projects/lab8Csharp/lab8Csharp/bin/Debug/net7.0/lab8Csharp.runtimeconfig.json
+/Users/mak/Projects/lab8Csharp/lab8Csharp/bin/Debug/net7.0/lab8Csharp.dll
+/Users/mak/Projects/lab8Csharp/lab8Csharp/bin/Debug/net7.0/lab8Csharp.pdb
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.dll
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/refint/lab8Csharp.dll
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.pdb
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/lab8Csharp.genruntimeconfig.cache
+/Users/mak/Projects/lab8Csharp/lab8Csharp/obj/Debug/net7.0/ref/lab8Csharp.dll
